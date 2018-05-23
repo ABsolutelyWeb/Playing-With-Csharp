@@ -1,0 +1,7 @@
+C:\Users\joopj\Desktop\Playing With C#\001 Basic Hello World With CLI Arguments\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\joopj\Desktop\Playing With C#\001 Basic Hello World With CLI Arguments\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\joopj\Desktop\Playing With C#\001 Basic Hello World With CLI Arguments\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\joopj\Desktop\Playing With C#\001 Basic Hello World With CLI Arguments\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\joopj\Desktop\Playing With C#\001 Basic Hello World With CLI Arguments\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\joopj\Desktop\Playing With C#\001 Basic Hello World With CLI Arguments\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\joopj\Desktop\Playing With C#\001 Basic Hello World With CLI Arguments\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache

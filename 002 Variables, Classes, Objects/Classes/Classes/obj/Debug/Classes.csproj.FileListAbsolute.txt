@@ -1,0 +1,7 @@
+C:\Users\joopj\Desktop\Playing With C#\002 Variables, Classes, Objects\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\joopj\Desktop\Playing With C#\002 Variables, Classes, Objects\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\joopj\Desktop\Playing With C#\002 Variables, Classes, Objects\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\joopj\Desktop\Playing With C#\002 Variables, Classes, Objects\Classes\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\joopj\Desktop\Playing With C#\002 Variables, Classes, Objects\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\joopj\Desktop\Playing With C#\002 Variables, Classes, Objects\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\joopj\Desktop\Playing With C#\002 Variables, Classes, Objects\Classes\Classes\obj\Debug\Classes.pdb
